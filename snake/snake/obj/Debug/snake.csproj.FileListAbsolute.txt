@@ -4,3 +4,9 @@ D:\Обучение\ООП\snake\snake\snake\bin\Debug\snake.pdb
 D:\Обучение\ООП\snake\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
 D:\Обучение\ООП\snake\snake\snake\obj\Debug\snake.exe
 D:\Обучение\ООП\snake\snake\snake\obj\Debug\snake.pdb
+D:\Обучение\Программист_Андроид_курс\ООП\snake\snake\bin\Debug\snake.exe.config
+D:\Обучение\Программист_Андроид_курс\ООП\snake\snake\obj\Debug\snake.exe
+D:\Обучение\Программист_Андроид_курс\ООП\snake\snake\obj\Debug\snake.pdb
+D:\Обучение\Программист_Андроид_курс\ООП\snake\snake\bin\Debug\snake.exe
+D:\Обучение\Программист_Андроид_курс\ООП\snake\snake\bin\Debug\snake.pdb
+D:\Обучение\Программист_Андроид_курс\ООП\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
